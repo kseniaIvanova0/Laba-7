@@ -1,0 +1,5 @@
+Ivanov;Petr;1990-05-12;Lenina street, 10;+7-900-111-22-33
+Sidorova;Anna;2003-11-30;Lenina street, 25;+7-900-222-33-44
+Kuznetsov;Oleg;1975-02-28;Mira street, 5;+7-900-333-44-55
+Smirnova;Elena;2001-07-04;Lenina street, 3;+7-900-444-55-66
+Petrov;Ivan;1988-12-01;Gagarina street, 7;+7-900-555-66-77
