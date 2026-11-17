@@ -1,0 +1,7 @@
+Street: Lenina
+Ivanov Petr 1990-05-12 Lenina street, 10 +7-900-111-22-33
+Sidorova Anna 2003-11-30 Lenina street, 25 +7-900-222-33-44
+Smirnova Elena 2001-07-04 Lenina street, 3 +7-900-444-55-66
+Found: 3
+Youngest: Sidorova Anna 2003-11-30
+Oldest: Kuznetsov Oleg 1975-02-28
